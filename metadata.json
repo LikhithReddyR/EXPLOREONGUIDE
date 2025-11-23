@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Explore On",
+  "description": "A comprehensive travel companion featuring AI-powered trip planning, vehicle and hotel booking mockups, real-time currency conversion, emergency alerts, and first aid guidance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
